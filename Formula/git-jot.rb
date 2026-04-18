@@ -2,9 +2,9 @@ class GitJot < Formula
   desc "Git commands to emulate branch notes"
   homepage "https://github.com/mtth/git-jot"
   license "MIT"
-  version "0.4.1"
-  url "https://github.com/mtth/git-jot/archive/refs/tags/v0.4.1.tar.gz"
-  sha256 "9916369b9c7d541174a1160ebb0c41813eab664ccdb41087dfb421b0dfa23c9f"
+  version "0.7.0"
+  url "https://github.com/mtth/git-jot/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "b1e657221e561635a0df02ebd9f605698cc2b36976546f77dc9b62dec3a8a4e9"
 
   depends_on "git"
 
